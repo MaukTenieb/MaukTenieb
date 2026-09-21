@@ -2,7 +2,7 @@
 
 Transmedia underground worldbuilder.
 
-**Korhogo Fauna** is a sci-fi world of 18 avatars (Unkle Maukie, dogXim, C7H5N3O6, Naphta, Ts'ui Pên, Croisière Noire, Hátra Lövés, Honey Buzzard, Aube, Maiden Call, Plague of Justinian, Silent Pact, Poisoned Well, Cadaver Synod, Truce, Auvergne, Grand Colonel, Malika) and an uncanny crucible-platform for: Experimental Hip-Hop, Concept Albums, Illbient, IDM, Experimental Dub.
+**Korhogo Fauna** is a self-proliferating sci-fi world of 18 avatars (Unkle Maukie, dogXim, C7H5N3O6, Naphta, Ts'ui Pên, Croisière Noire, Hátra Lövés, Honey Buzzard, Aube, Maiden Call, Plague of Justinian, Silent Pact, Poisoned Well, Cadaver Synod, Truce, Auvergne, Grand Colonel, Malika) and an uncanny crucible-platform for: Experimental Hip-Hop, Concept Albums, Illbient, IDM, Experimental Dub.
 
 Concept Albums: Experimental Hip-Hop/Dub, IDM/Braindance, Ethnotronica/Free Improvisation, Concept Soundtracks.
 
@@ -15,8 +15,8 @@ Concept Albums: Experimental Hip-Hop/Dub, IDM/Braindance, Ethnotronica/Free Impr
 - Records: [Discogs](https://www.discogs.com/artist/9104440-Mauk-Tenieb)
 
 ## Before Korhogo
-Korhogo is a superb city in Ivory Coast. But before its prominent role and lore, there was:
-- The big photographic lore-non-lore: [Facebook](https://www.facebook.com/mauktenieb/photos_by)
+Korhogo is a superb city in Ivory Coast. But before its octopus centrality in the lore — like William S. Burroughs' Tangier, a literary and existential Interzone — there was:
+- The big photographic pre-lore, as it is nervous and mute: [Facebook](https://www.facebook.com/mauktenieb/photos_by)
 - Budapest, 2008–2012 and 2021: [Instagram](https://www.instagram.com/mauktenieb) and its side galleries: [route6166](https://www.instagram.com/route6166) · [gorbuzsadr](https://www.instagram.com/gorbuzsadr) · [mauktenieb2](https://www.instagram.com/mauktenieb2) · [mauktenieb3](https://www.instagram.com/mauktenieb3)
 - A testimony of the French years: [Flickr](https://www.flickr.com/people/mauktenieb/)
 
