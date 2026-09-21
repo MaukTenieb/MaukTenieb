@@ -2,7 +2,7 @@
 
 Transmedia underground worldbuilder.
 
-**Korhogo Fauna** is a sci-fi world of 18 avatars (Unkle Maukie, dogXim, C7H5N3O6, Naphta, T'sui Pên, Croisière Noire, Hátra Lövés, Honey Buzzard, Aube, Maiden Call, Plague of Justinian, Silent Pact, Poisoned Well, Cadaver Synod, Truce, Auvergne, Grand Colonel, Malika) and an uncanny crucible-platform for: Experimental Hip-Hop, Concept Albums, Illbient, IDM, Experimental Dub.
+**Korhogo Fauna** is a sci-fi world of 18 avatars (Unkle Maukie, dogXim, C7H5N3O6, Naphta, Ts'ui Pên, Croisière Noire, Hátra Lövés, Honey Buzzard, Aube, Maiden Call, Plague of Justinian, Silent Pact, Poisoned Well, Cadaver Synod, Truce, Auvergne, Grand Colonel, Malika) and an uncanny crucible-platform for: Experimental Hip-Hop, Concept Albums, Illbient, IDM, Experimental Dub.
 
 Concept Albums: Experimental Hip-Hop/Dub, IDM/Braindance, Ethnotronica/Free Improvisation, Concept Soundtracks.
 
