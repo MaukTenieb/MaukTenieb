@@ -7,7 +7,7 @@ Transmedia underground worldbuilder.
 Concept Albums: Experimental Hip-Hop/Dub, IDM/Braindance, Ethnotronica/Free Improvisation, Concept Soundtracks.
 
 ## Now — Korhogo Fauna
-- The work: [Korhogo Fauna](https://mauktenieb.github.io/katabase) · [the game](https://mauktenieb.github.io/insertkoin)
+- The work: [Korhogo Fauna](https://mauktenieb.github.io/katabase) · [The game](https://mauktenieb.github.io/insertkoin)
 - Music and sales: [Bandcamp](https://mauktenieb.bandcamp.com)
 - Clips and mini-films: [YouTube](https://www.youtube.com/@mauktenieb)
 - The massive diary, in small feuilleton slices: [Substack](https://korhogo.substack.com)
