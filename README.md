@@ -21,8 +21,6 @@ Korhogo is a superb city in Ivory Coast. But before its octopus centrality in th
 - Budapest, 2008–2012 and 2021: [Instagram](https://www.instagram.com/mauktenieb) and its side galleries: [route6166](https://www.instagram.com/route6166) · [gorbuzsadr](https://www.instagram.com/gorbuzsadr) · [mauktenieb2](https://www.instagram.com/mauktenieb2) · [mauktenieb3](https://www.instagram.com/mauktenieb3)
 - A testimony of the French years: [Flickr](https://www.flickr.com/people/mauktenieb/)
 
-Lure, Lore, More.
-
 <!-- network:start -->
 ## Tools
 
