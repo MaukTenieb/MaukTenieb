@@ -28,7 +28,7 @@ Lure, Lore, More.
 
 Built for Insert Koin and the works above. The licence is in each repository.
 
-- [Detour](https://github.com/MaukTenieb/detour): portraits to sprite strips, Python
+- [Detour](https://github.com/MaukTenieb/detour): portraits to sprite strips, then their catchlights
 - [FaunaTor](https://github.com/MaukTenieb/faunator): Tor inside a web page
 - [KorhoTube](https://github.com/MaukTenieb/korhotube): a YouTube channel as JSON
 - [Reporhogo](https://github.com/MaukTenieb/reporhogo): one topic, forty-one code forges
