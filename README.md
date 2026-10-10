@@ -2,7 +2,7 @@
 
 Transmedia underground worldbuilder.
 
-**Korhogo** is a self-proliferating sci-fi world. Its 18 inhabitants form the **Korhogo Fauna**: Naphta/Naphta-Kerema, Plague of Justinian, Aube/Rosy Fingers, Malika/Quintina, Cadaver Synod, Honey Buzzard, Croisière Noire, Grand Colonel, Poisoned Well, Unkle Maukie, Hátra Lövés, Maiden Call, C7H5N3O6, Silent Pact, Auvergne, Ts'ui Pên, dogXim, Truce. Genres? Experimental Hip-Hop, Concept Albums, Illbient, IDM, Experimental Dub.
+**Korhogo Fauna** is a self-proliferating sci-fi world of 18 avatars (Naphta/Naphta-Kerema, Plague of Justinian, Aube/Rosy Fingers, Malika/Quintina, Cadaver Synod, Honey Buzzard, Croisière Noire, Grand Colonel, Poisoned Well, Unkle Maukie, Hátra Lövés, Maiden Call, C7H5N3O6, Silent Pact, Auvergne, Ts'ui Pên, dogXim, Truce) and an uncanny crucible-platform for: Experimental Hip-Hop, Concept Albums, Illbient, IDM, Experimental Dub.
 
 Concept Albums: Experimental Hip-Hop/Dub, IDM/Braindance, Ethnotronica/Free Improvisation, Concept Soundtracks.
 
