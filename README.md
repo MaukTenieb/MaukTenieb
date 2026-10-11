@@ -12,7 +12,7 @@ Concept Albums: Experimental Hip-Hop/Dub, IDM/Braindance, Ethnotronica/Free Impr
 - Music and sales: [Bandcamp](https://mauktenieb.bandcamp.com)
 - Clips and mini-films: [YouTube](https://www.youtube.com/@mauktenieb)
 - The massive diary, in small feuilleton slices: [Substack](https://korhogo.substack.com)
-- Official bio: [ORCID](https://orcid.org/0009-0007-9096-8267)
+- Biography: [ORCID](https://orcid.org/0009-0007-9096-8267)
 - Records: [Discogs](https://www.discogs.com/artist/9104440-Mauk-Tenieb)
 
 ## Before Korhogo
