@@ -26,12 +26,12 @@ Korhogo is a superb city in Ivory Coast. But before its octopus centrality in th
 
 Built for Insert Koin and the works above. The licence is in each repository.
 
-- [Detour](https://github.com/MaukTenieb/detour): portraits to sprite strips, then their catchlights
-- [FaunaTor](https://github.com/MaukTenieb/faunator): Tor inside a web page
-- [KorhoTube](https://github.com/MaukTenieb/korhotube): a YouTube channel as JSON
-- [Reporhogo](https://github.com/MaukTenieb/reporhogo): one topic, forty-one code forges
-- [Photofauna](https://github.com/MaukTenieb/Photofauna): the pocket photo emulator
-- [TorView](https://github.com/MaukTenieb/torview): a minimal Tor browser, Go
+- [Detour](https://github.com/MaukTenieb/detour): cuts portrait sheets into sprite strips and places the eye lights
+- [FaunaTor](https://github.com/MaukTenieb/faunator): reads web and .onion pages through Tor clients that run in the page
+- [KorhoTube](https://github.com/MaukTenieb/korhotube): lists every video of a YouTube channel as JSON
+- [Reporhogo](https://github.com/MaukTenieb/reporhogo): searches forty-one code forges for a topic and lists the repositories it finds
+- [Photofauna](https://github.com/MaukTenieb/Photofauna): a photo editor with 44 looks, part of Insert Koin
+- [TorView](https://github.com/MaukTenieb/torview): a desktop browser in Go that routes its traffic through the official Tor daemon
 <!-- network:end -->
 
 Copyright © Mauk Tenieb & Korhogo. All rights reserved. No reproduction or reuse without written permission, including for training or use by artificial-intelligence systems.
