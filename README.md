@@ -28,7 +28,7 @@ Built for Insert Koin and the works above. The licence is in each repository.
 
 - [Detour](https://github.com/MaukTenieb/detour): cuts portrait sheets into sprite strips and places the eye lights
 - [FaunaTor](https://github.com/MaukTenieb/faunator): reads web and .onion pages through Tor clients that run in the page
-- [KorhoTube](https://github.com/MaukTenieb/korhotube): lists every video of a YouTube channel as JSON
+- [KorhoTube](https://github.com/MaukTenieb/korhotube): lists the public videos of a YouTube channel as JSON
 - [Reporhogo](https://github.com/MaukTenieb/reporhogo): searches forty-one code forges for a topic and lists the repositories it finds
 - [Photofauna](https://github.com/MaukTenieb/Photofauna): a photo editor with 44 looks, part of Insert Koin
 - [TorView](https://github.com/MaukTenieb/torview): a desktop browser in Go that routes its traffic through the official Tor daemon
