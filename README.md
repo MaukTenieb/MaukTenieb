@@ -13,7 +13,7 @@ Concept Albums: Experimental Hip-Hop/Dub, IDM/Braindance, Ethnotronica/Free Impr
 - Clips and mini-films: [YouTube](https://www.youtube.com/@mauktenieb)
 - The massive diary, in small feuilleton slices: [Substack](https://korhogo.substack.com)
 - Biography: [ORCID](https://orcid.org/0009-0007-9096-8267)
-- Records: [Discogs](https://www.discogs.com/artist/9104440-Mauk-Tenieb)
+- Records: [MusicBrainz](https://musicbrainz.org/artist/701a6795-f583-4567-b8f4-0d05f961d63f) · archive: [Discogs](https://www.discogs.com/artist/9104440-Mauk-Tenieb)
 
 ## Before Korhogo
 Korhogo is a superb city in Ivory Coast. But before its octopus centrality in the lore — like William S. Burroughs' Tangier, a literary and existential Interzone — there was:
