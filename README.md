@@ -4,7 +4,7 @@ Transmedia underground worldbuilder.
 
 **Korhogo** is a self-proliferating sci-fi world and an uncanny crucible-platform for: Experimental Hip-Hop, Concept Albums, Illbient, IDM, and Experimental Dub. Its 18 avatars: the **Korhogo Fauna**, also known as Hordalék or the Masks (Honey Buzzard/Marumero, Naphta/Naphta-Kerema, Aube/Rosy Fingers, Plague of Justinian, Truce/↑héé↑è↑e, Malika/Quintina, Cadaver Synod, Croisière Noire, Grand Colonel, Poisoned Well, Unkle Maukie, Hátra Lövés, Maiden Call, C7H5N3O6, Silent Pact, Auvergne, Ts'ui Pên, dogXim).
 
-Concept Albums: Experimental Hip-Hop/Dub, IDM/Braindance, Ethnotronica/Free Improvisation, Concept Soundtracks.
+Also: Braindance, Ethnotronica, Free Improvisation, Concept Soundtracks.
 
 ## Now — Korhogo Fauna
 - Start here: [mauktenieb.github.io](https://mauktenieb.github.io/)
