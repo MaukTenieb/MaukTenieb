@@ -8,10 +8,10 @@ Concept Albums: Experimental Hip-Hop/Dub, IDM/Braindance, Ethnotronica/Free Impr
 
 ## Now — Korhogo Fauna
 - Start here: [mauktenieb.github.io](https://mauktenieb.github.io/)
-- The work: [Exploration](https://mauktenieb.github.io/katabase) · [InsertKoin, The Korhogo Fauna Website](https://mauktenieb.github.io/insertkoin)
+- The whole work: [Exploration](https://mauktenieb.github.io/katabase) · [InsertKoin, The Korhogo Fauna Website](https://mauktenieb.github.io/insertkoin)
 - Music and sales: [Bandcamp](https://mauktenieb.bandcamp.com)
 - Clips and mini-films: [YouTube](https://www.youtube.com/@mauktenieb)
-- The massive diary, in small feuilleton slices: [Substack](https://korhogo.substack.com)
+- The Lore. Which is a massive diary, still growing, here delivered in thin feuilleton slices: [Substack](https://korhogo.substack.com)
 - Biography: [ORCID](https://orcid.org/0009-0007-9096-8267)
 - Records: [MusicBrainz](https://musicbrainz.org/artist/701a6795-f583-4567-b8f4-0d05f961d63f) · archive: [Discogs](https://www.discogs.com/artist/9104440-Mauk-Tenieb)
 
