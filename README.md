@@ -2,7 +2,7 @@
 
 Transmedia underground worldbuilder.
 
-**Korhogo** is a self-proliferating sci-fi world and an uncanny crucible-platform for: Experimental Hip-Hop, Concept Albums, Illbient, IDM, and Experimental Dub. Its 18 avatars: the **Korhogo Fauna**, aka the Masks (Honey Buzzard/Limulus, Aube/Rosy Fingers, Plague of Justinian, Truce/↑héé↑è↑e, Malika/Quintina, Naphta-Kerema, Cadaver Synod, Croisière Noire, Grand Colonel, Poisoned Well, Unkle Maukie, Hátra Lövés, Maiden Call, C7H5N3O6, Silent Pact, Auvergne, Ts'ui Pên, dogXim).
+**Korhogo** is a self-proliferating sci-fi world and an uncanny crucible-platform for: Experimental Hip-Hop, Concept Albums, Illbient, IDM, and Experimental Dub. Its 18 avatars: the **Korhogo Fauna**, aka the Masks (Honey Buzzard/Marumero/Limulus, Aube/Rosy Fingers, Plague of Justinian, Truce/↑héé↑è↑e, Malika/Quintina, Naphta-Kerema, Cadaver Synod, Croisière Noire, Grand Colonel, Poisoned Well, Unkle Maukie, Hátra Lövés, Maiden Call, C7H5N3O6, Silent Pact, Auvergne, Ts'ui Pên, dogXim).
 
 Also: Braindance, Ethnotronica, Free Improvisation, Concept Soundtracks.
 
