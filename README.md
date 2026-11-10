@@ -27,7 +27,7 @@ Korhogo is a remarkable city in Côte d'Ivoire. But before its octopus centralit
 - [Insert Koin](https://github.com/MaukTenieb/insertkoin): Mauk Tenieb's Korhogo world, games and machines in a browser
 - [3615](https://github.com/MaukTenieb/3615): the K Terminal, a Minitel in the browser; services, Koins, Hall of Kave
 - [Katabase](https://github.com/MaukTenieb/katabase): the Burrows, the work in layers
-- [Photofauna](https://github.com/MaukTenieb/Photofauna): the photo editor of Insert Koin, 44 looks
+- [Photofauna](https://github.com/MaukTenieb/Photofauna): the photo editor of Insert Koin, 1,998 filters & effekts
 
 ## Method
 
