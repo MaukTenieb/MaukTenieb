@@ -24,22 +24,18 @@ Korhogo is a remarkable city in Côte d'Ivoire. But before its octopus centralit
 <!-- network:start -->
 ## Work
 
-- [Insert Koin](https://github.com/MaukTenieb/insertkoin): Mauk Tenieb's Korhogo world, games and machines in a browser
-- [3615](https://github.com/MaukTenieb/3615): the K Terminal, a Minitel in the browser; services, Koins, Hall of Kave
-- [Katabase](https://github.com/MaukTenieb/katabase): the Burrows, the work in layers
-- [Photofauna](https://github.com/MaukTenieb/Photofauna): the photo editor of Insert Koin, 2K effekts
+- [Katabase](https://mauktenieb.github.io/katabase/): the Burrows, with the albums and clips of the Korhogo Fauna.
+- [Insert Koin](https://mauktenieb.github.io/insertkoin/): an arcade cabinet in the browser and the Kaves of the motel (KorhogOS, the TV, the Video Kave, the DVD player).
+  - Korong!: air-puck against the eighteen Masks; each Mask plays by its stats and a signature move.
+  - Fauna Chess: fairy chess against the Fauna.
+  - Faunarratik: a tale built from the sheets of the Masks. Still alpha test.
+  - FaunInvaders: the eighteen Masks march and drop bombs, each Mask in its own way.
+  - [PhotoFauna](https://mauktenieb.github.io/insertkoin/fotofauna.html): a photo editor with 2K effekts from 44 photo apps. Still beta test.
+- [3615](https://mauktenieb.github.io/3615/): the MiniTale, a Minitel in the browser, with 3615 KORHOGO, the Kaves, KALABASS and the Hall of Kave.
 
-## Method
+## C7H5N3O6's Workshop
 
-How all of it is built: [method](https://github.com/MaukTenieb/method). Code under MIT, method under CC BY 4.0, credit Mauk Tenieb & Korhogo.
-
-- [Curators](https://github.com/MaukTenieb/curators): music put forward by eight curators, ranked and pressed onto VHS cassettes for Insert Koin every Monday
-- [Detour](https://github.com/MaukTenieb/detour): cuts portrait sheets into sprite strips and places the eye lights
-- [Reporhogo](https://github.com/MaukTenieb/reporhogo): searches 41 code forges for a topic and lists the repositories it finds
-- [KorhoTube](https://github.com/MaukTenieb/korhotube): lists the public videos of a YouTube channel as JSON
-- [Korhoname](https://github.com/MaukTenieb/Korhoname): checks a name on Discogs, MusicBrainz, trademark registers and Wikidata
-- [FaunaTor](https://github.com/MaukTenieb/faunator): reads web and .onion pages through Tor clients that run in the page
-- [TorView](https://github.com/MaukTenieb/torview): a desktop browser in Go that routes its traffic through the official Tor daemon
+The tools of the work: [method](https://github.com/MaukTenieb/method) (how Insert Koin and its repos get built, prose rules), [curators](https://github.com/MaukTenieb/curators), [Detour](https://github.com/MaukTenieb/detour), [RepoRhogo](https://github.com/MaukTenieb/reporhogo), [KorhoTube](https://github.com/MaukTenieb/korhotube), [KorhoName](https://github.com/MaukTenieb/Korhoname), [FaunaTor](https://github.com/MaukTenieb/faunator), [TorView](https://github.com/MaukTenieb/torview).
 <!-- network:end -->
 
 Code under MIT, method under CC BY 4.0, Korhogo material reserved (characters, names, marks, lore, texts, images, videos, music). Credit for any reuse: Mauk Tenieb & Korhogo. A person may use an AI assistant to read, explain and adapt the code and the method; training of AI models: reserved. Details: LICENSE.
